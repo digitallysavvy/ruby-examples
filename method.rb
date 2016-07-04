@@ -16,8 +16,8 @@ end
 
 showstring
 showname("Hermes")
-puts(return_name("Hermes", "Frangoudis"))
-puts(return_name2("Tierney", "Hughes"))
+puts(return_name("Iam", "Hermes"))
+puts(return_name2("Hermes", "F"))
 
 
 
